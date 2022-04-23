@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio 3.1</string>
+    <string name="btnverlista">Ver Lista</string>
+    <string name="btnvolver">Volver</string>
+    <string name="btnvolverr">Volver.</string>
+
+</resources>
